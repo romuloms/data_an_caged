@@ -1,0 +1,61 @@
+coluna,chave,valor
+categoria,101,"Empregado - Geral, Inclusive O Empregado Público Da Administração Direta Ou Indireta Contratado Pela Clt"
+categoria,102,Empregado - Trabalhador Rural Por Pequeno Prazo Da Lei 11.718/2008
+categoria,103,Empregado - Aprendiz
+categoria,104,Empregado - Doméstico
+categoria,105,Empregado - Contrato A Termo Firmado Nos Termos Da Lei 9.601/1998
+categoria,106,Trabalhador Temporário - Contrato Nos Termos Da Lei 6.019/1974
+categoria,107,Empregado - Contrato De Trabalho Verde E Amarelo - Sem Acordo Para Antecipação Mensal Da Multa Rescisória Do Fgts
+categoria,108,Empregado - Contrato De Trabalho Verde E Amarelo - Com Acordo Para Antecipação Mensal Da Multa Rescisória Do Fgts
+categoria,111,Empregado - Contrato De Trabalho Intermitente
+categoria,999,Não Identificado
+grau_instrucao,1,Analfabeto
+grau_instrucao,10,Mestrado
+grau_instrucao,11,Doutorado
+grau_instrucao,2,Até 5ª Incompleto
+grau_instrucao,3,5ª Completo Fundamental
+grau_instrucao,4,6ª A 9ª Fundamental
+grau_instrucao,5,Fundamental Completo
+grau_instrucao,6,Médio Incompleto
+grau_instrucao,7,Médio Completo
+grau_instrucao,8,Superior Incompleto
+grau_instrucao,80,Pós-Graduação Completa
+grau_instrucao,9,Superior Completo
+grau_instrucao,99,Não Identificado
+raca_cor,1,Branca
+raca_cor,2,Preta
+raca_cor,3,Parda
+raca_cor,4,Amarela
+raca_cor,5,Indígena
+raca_cor,6,Não Informada
+raca_cor,9,Não Identificado
+saldo_movimentacao,-1,Desligamento
+saldo_movimentacao,1,Admissão
+sexo,1,Homem
+sexo,3,Mulher
+sexo,9,Não Identificado
+tipo_deficiencia,0,Não Deficiente
+tipo_deficiencia,1,Física
+tipo_deficiencia,2,Auditiva
+tipo_deficiencia,3,Visual
+tipo_deficiencia,4,Intelectual (Mental)
+tipo_deficiencia,5,Múltipla
+tipo_deficiencia,6,Reabilitado
+tipo_deficiencia,9,Não Identificado
+tipo_movimentacao,10,Admissão Por Primeiro Emprego
+tipo_movimentacao,20,Admissão Por Reemprego
+tipo_movimentacao,25,Admissão Por Contrato Trabalho Prazo Determinado
+tipo_movimentacao,31,Desligamento Por Demissão Sem Justa Causa
+tipo_movimentacao,32,Desligamento Por Demissão Com Justa Causa
+tipo_movimentacao,33,Culpa Recíproca
+tipo_movimentacao,35,Admissão Por Reintegração
+tipo_movimentacao,40,Desligamento A Pedido
+tipo_movimentacao,43,Término Contrato Trabalho Prazo Determinado
+tipo_movimentacao,45,Desligamento Por Término De Contrato
+tipo_movimentacao,50,Desligamento Por Aposentadoria
+tipo_movimentacao,60,Desligamento Por Morte
+tipo_movimentacao,70,Admissão Por Transferência
+tipo_movimentacao,80,Desligamento Por Transferência
+tipo_movimentacao,90,Desligamento Por Acordo Entre Empregado E Empregador
+tipo_movimentacao,98,Desligamento De Tipo Ignorado
+tipo_movimentacao,99,Não Identificado
